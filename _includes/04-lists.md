@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My Favorite Movies:
+- Napoleon Dynamite
+- Forrest Gump
+- Star Wars
+-   Return of the Jedi
+-   Revenge of the Sith
